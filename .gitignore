@@ -123,5 +123,4 @@ venv.bak/
 ### Python Patch ###
 .venv/
 .idea/
-postgresql/data/*
 env.*
